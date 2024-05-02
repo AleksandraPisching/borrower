@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dluznik", "dluznik\dluznik.csproj", "{3BA732AA-99E0-426C-94B9-D472C302F136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deptor.core", "Deptor.core\Deptor.core.csproj", "{5297B950-9C0E-488A-A6F8-C0913674A2EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA732AA-99E0-426C-94B9-D472C302F136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA732AA-99E0-426C-94B9-D472C302F136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA732AA-99E0-426C-94B9-D472C302F136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA732AA-99E0-426C-94B9-D472C302F136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5297B950-9C0E-488A-A6F8-C0913674A2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5297B950-9C0E-488A-A6F8-C0913674A2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5297B950-9C0E-488A-A6F8-C0913674A2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5297B950-9C0E-488A-A6F8-C0913674A2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71AB5AE0-AACC-4725-AADC-7C8206BF42FD}
+	EndGlobalSection
+EndGlobal
